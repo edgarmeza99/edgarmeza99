@@ -1,12 +1,17 @@
-### Hola soy Edgar 👋👨‍💻💻:
+<h1 align="center">Hola 👋, soy Edgar</h1>
+<h3 align="center">Un apasionado desarrollador full stack de Paraguay</h3>
+
+### Acerca de mi en código 📓:
 ``` js
 const edgar = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Java],
-  tools: [React, Redux, Node, Linux, Docker,Spring Boot],
-  architecture: ["microservices", "Object-oriented",],
+  lenguajes: [Javascript, HTML, CSS, Java],
+  herramientas: [React, Redux, Node, Linux, Docker,Spring Boot],
+  arquitecturas: ["microservices", "Object-oriented",],
 }
 ```
+<a href="https://github.com/edgarmeza99/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarmeza99&layout=compact&theme=buefy&hide_border=true" /></a>
+
+### Lenguajes y herramientas 💻:
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
@@ -23,11 +28,10 @@ const edgar = {
 </div>
 
 ### Me encontraras en 🌎:
-- [LinkedIn](https://www.linkedin.com/in/edgar-daniel-meza-benitez-9480171a0/)
-- [Instagram](https://www.instagram.com/eddmeza_/)
-
-<br>
-<a href="https://github.com/edgarmeza99/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarmeza99&layout=compact&theme=buefy&hide_border=true" /></a>
+<p align="left">
+<a href="https://linkedin.com/in/edgar-daniel-meza-benitez-9480171a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edgar-daniel-meza-benitez-9480171a0/" height="30" width="40" /></a>
+<a href="https://instagram.com/eddmeza_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eddmeza_" height="30" width="40" /></a>
+</p>
 <!--
 **edgarmeza99/edgarmeza99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
