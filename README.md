@@ -22,11 +22,12 @@ const edgar = {
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/></code>
 </div>
 
-
 ### Me encontraras en 🌎:
 - [Linkedin](https://www.linkedin.com/in/edgar-daniel-meza-benitez-9480171a0/)
 - [Instagram](https://www.instagram.com/eddmeza_/)
 
+<br>
+<a href="https://github.com/edgarmeza99/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarmeza99&layout=compact&theme=buefy&hide_border=true" /></a>
 <!--
 **edgarmeza99/edgarmeza99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
