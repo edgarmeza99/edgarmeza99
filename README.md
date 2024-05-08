@@ -23,7 +23,7 @@ const edgar = {
 </div>
 
 ### Me encontraras en 🌎:
-- [Linkedin](https://www.linkedin.com/in/edgar-daniel-meza-benitez-9480171a0/)
+- [LinkedIn](https://www.linkedin.com/in/edgar-daniel-meza-benitez-9480171a0/)
 - [Instagram](https://www.instagram.com/eddmeza_/)
 
 <br>
