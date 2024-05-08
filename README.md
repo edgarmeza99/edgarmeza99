@@ -5,7 +5,7 @@
 ``` js
 const edgar = {
   lenguajes: [Javascript, HTML, CSS, Java],
-  herramientas: [React, Redux, Node, Linux, Docker,Spring Boot],
+  herramientas: [React, Redux, Node, Linux, Docker,'Spring Boot'],
   arquitecturas: ["microservices", "Object-oriented",],
 }
 ```
