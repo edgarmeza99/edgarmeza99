@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Edgar</h1>
 <h3 align="center">Un apasionado desarrollador full stack de Paraguay</h3>
 
-### Acerca de mi en código 📓:
+### Acerca de mi📓:
 ``` js
 const edgar = {
   lenguajes: [Javascript, HTML, CSS, Java],
